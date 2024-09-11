@@ -1,0 +1,4 @@
+---
+title: Sentipensares
+layout: blog
+---

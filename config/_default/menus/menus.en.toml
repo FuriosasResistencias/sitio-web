@@ -1,12 +1,22 @@
 [[main]]
-  name = "Home"
+  name = "Inicio"
   pageRef = "/"
   weight = 10
 
 [[main]]
-  name = "Tags"
-  pageRef = "/tags"
+  name = "Investigación"
+  pageRef = "/investigacion"
   weight = 20
+
+[[main]]
+  name = "Notas"
+  pageRef = "/notas"
+  weight = 30
+
+[[main]]
+  name = "Sentipensares"
+  pageRef = "/sentipensares"
+  weight = 40
 
 [[social]]
   name = "LinkedIn"
@@ -28,24 +38,22 @@
 
 # toml-docs-start sample-navigation
 [[sample]]
-  name = "Blog"
-  pageRef = "/blog/"
+  name = "Inicio"
+  pageRef = "/"
   weight = 10
 
 [[sample]]
-  name = "Projects"
-  pageRef = "/projects/"
+  name = "Investigación"
+  pageRef = "/investigacion"
   weight = 20
 
 [[sample]]
-  name = "Sample project"
-  pageRef = "/projects/sample-project/"
-  parent = "Projects"
-  weight = 1
+  name = "Notas"
+  pageRef = "/notas"
+  weight = 30
 
 [[sample]]
-  name = "Another project"
-  pageRef = "/projects/another-project/"
-  parent = "Projects"
-  weight = 2
+  name = "Sentipensares"
+  pageRef = "/sentipensares"
+  weight = 40
 # toml-docs-end sample-navigation
