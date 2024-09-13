@@ -1,4 +1,4 @@
 ---
 title: Investigación
-layout: docs
+type: docs
 ---

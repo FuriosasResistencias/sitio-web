@@ -1,4 +1,4 @@
 ---
 title: Sentipensares
-layout: blog
+type: blog
 ---
