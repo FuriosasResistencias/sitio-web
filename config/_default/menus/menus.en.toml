@@ -4,37 +4,38 @@
   weight = 10
 
 [[main]]
-  name = "Investigación"
-  pageRef = "/investigacion"
+  name = "Descolonizando"
+  pageRef = "/descolonizando/"
   weight = 20
 
 [[main]]
-  name = "Notas"
-  pageRef = "/notas"
+  name = "Galería"
+  pageRef = "/galeria"
   weight = 30
 
-[[main]]
-  name = "Sentipensares"
-  pageRef = "/sentipensares"
-  weight = 40
+[[social]]
+  name = "Instagram"
+  pre = "fab fa-instagram"
+  url = "https://www.instagram.com/furiosasresistencias/"
+  weight = 10
 
 [[social]]
-  name = "LinkedIn"
-  pre = "fab linkedin"
-  url = "https://linkedin.com/"
-  weight = 10
+  name = "Facebook"
+  pre = "fab fa-facebook"
+  url = "https://www.instagram.com/furiosasresistencias/"
+  weight = 20
+
+[[social]]
+  name = "Twitter"
+  pre = "fab fa-twitter"
+  url = "https://www.x.com/FResistencias"
+  weight = 30
 
 [[social]]
   name = "GitHub"
   pre = "fab fa-github"
-  url = "https://github.com/"
-  weight = 20
-
-[[social]]
-  name = "Medium"
-  pre = "fab medium"
-  url = "https://medium.com/"
-  weight = 30
+  url = "https://github.com/FuriosasResistencias"
+  weight = 40
 
 # toml-docs-start sample-navigation
 [[sample]]

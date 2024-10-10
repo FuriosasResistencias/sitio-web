@@ -29,7 +29,7 @@
 
 [home]
     # sections = ["posts"]
-    fullCover = false
+    fullCover = true
     centerHeadline = false
     style = ""
     [home.feature]
