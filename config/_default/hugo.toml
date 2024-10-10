@@ -1,9 +1,8 @@
-title = "Hinode"
-copyright = "Copyright © 2024 Mark Dumay."
+title = "Furiosas Resistencias"
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://www.furiosasresistencias.com/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
@@ -16,7 +15,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 timeout = "180s"
 
-languageCode = "en-us"
+languageCode = "es-mx"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 

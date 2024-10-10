@@ -1,4 +1,0 @@
----
-title: Investigación
-type: docs
----
