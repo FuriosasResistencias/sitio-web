@@ -3,6 +3,7 @@ module github.com/gethinode/template
 go 1.20
 
 require (
+	github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.1 // indirect
 	github.com/airbnb/lottie-web v5.12.2+incompatible // indirect
 	github.com/gethinode/hinode v0.26.7 // indirect
 	github.com/gethinode/mod-bootstrap v1.3.1 // indirect
